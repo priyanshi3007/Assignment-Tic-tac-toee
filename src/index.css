@@ -355,7 +355,7 @@ ol {
 @media only screen and (max-width: 600px) {
   #game-container {
    width: 20rem;
-   height: 55vh;
+   height: auto;
   }
   #players button{
     width: 20px;
