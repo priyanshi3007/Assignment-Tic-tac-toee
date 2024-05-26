@@ -365,7 +365,9 @@ ol {
     width: 4rem;
     height: 4rem;
   }
-   
+    #game-board button {
+    font-size: 2.5rem;
+  }
 }
 
 /* Add these CSS rules to your existing CSS file or create a new one */
